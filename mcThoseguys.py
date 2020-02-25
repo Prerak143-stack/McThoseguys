@@ -1,5 +1,4 @@
-# My name is Prerak Patel and my student number is 000736376 I haven't shared my program with anyone
-# and my professor's name is Tiffany, Antopolski
+
 
 print("\n\n\t\tHello and Welcome to McThoseguys - Fast Food Restaurant")
 print("-"*80)
